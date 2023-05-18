@@ -1,4 +1,20 @@
 
+# ===============================================
+# ==== Einstein =================================
+# ===============================================
+
+# What should I have done?
+
+# You've probably heard of E = mc2 where E
+# denotes energy (in joules), m denotes mass (in kilograms) and
+# c denotes the speed of light (approximately equal to 30,000,000 m/s).
+# In fact, this formula means that energy
+# and mass are equivalent.
+# In a file named einstein.py, write a program that receives mass (in kilograms)
+# from the user in int form, puts it in the formula,
+# and outputs its energy (in joules) in int form.
+
+# ===============================================
 
 def calculate_energy(m):
     c = 300000000
