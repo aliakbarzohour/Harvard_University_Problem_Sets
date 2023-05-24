@@ -1,3 +1,11 @@
+# ==============================================================
+
+# What should I have done?
+
+# This code takes a filename as input and prints the 
+# corresponding file MIME type.
+
+# ==============================================================
 
 filename = input("[$] Enter file name: ")
 
