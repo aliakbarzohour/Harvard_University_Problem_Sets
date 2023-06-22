@@ -28,4 +28,4 @@ elif operator == "/":
     result = num1 / num2
 
 # Print the result rounded to one decimal place
-print(round(result, 1))
+print(float(result))
